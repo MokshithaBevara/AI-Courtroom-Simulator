@@ -1,0 +1,6 @@
+streamlit
+groq
+ddgs
+transformers
+accelerate
+sentencepiece
